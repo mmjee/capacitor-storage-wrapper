@@ -4,10 +4,9 @@ Very simple wrapper to get around the retarded `@capacitor/storage` API.
 
 #### How to install
 
-<!-- FILL IN -->
 ```shell
-npm install https://github.com/mmjee/capacitor-storage-wrapper.git
-yarn add https://github.com/mmjee/capacitor-storage-wrapper.git
+npm install git+https://github.com/mmjee/capacitor-storage-wrapper.git\#92ce04a0fa5612144d9841f811c7cb8fe911ff6f
+yarn add git+https://github.com/mmjee/capacitor-storage-wrapper.git\#92ce04a0fa5612144d9841f811c7cb8fe911ff6f
 ```
 
 #### How to use
